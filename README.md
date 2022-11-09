@@ -1,2 +1,3 @@
-# Anime-Chan
-I decide to public Anime-Chan source code (250+ servers | Discord verified) after I update it to discord.js V14
+Sau khi update bot lên discord.js v14 thì tui sẽ public bot ờ đây
+
+Vì là bot phụ nên là cho phép học hỏi source của bot, chi tiết xem Lisense
